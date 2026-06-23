@@ -30,7 +30,7 @@ if(isset($_POST['login'])){
 <body>
 
 <div class="container">
-<h2>Login</h2>
+<h2>Login1</h2>
 
 <form method="POST">
 Email:
